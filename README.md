@@ -4,6 +4,20 @@
 - It is a programming language developed by Microsoft Corporation to run the .net framework.
 - It is used to develop web applications, mobile apps and games
 
+## Compiler
+
+- C# is complied language.
+
+![](assets/c#%20compiler.png)
+
+1. `code` - ends with .cs extension
+
+2. `compiler` - check error or not, generate the CLI code
+
+3. `IL code` - Half complied code (Intermediate language).
+
+4. `JIT compiler` - It converts the IL to machine code (Just in time).
+
 ## Syntax 
 
 - c# files are created with the extension of .cs 
