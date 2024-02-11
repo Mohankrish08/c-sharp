@@ -8,7 +8,7 @@
 
 - C# is complied language.
 
-![C# Compiler](assets/c#%20compiler.png)
+![C# Compiler](assets/compiler.png)
 
 1. `code` - ends with .cs extension
 
