@@ -8,7 +8,7 @@
 
 - C# is complied language.
 
-![](assets/c#%20compiler.png)
+![C# Compiler](assets/c#%20compiler.png)
 
 1. `code` - ends with .cs extension
 
@@ -104,6 +104,7 @@ string s1 = "Hi there";
 ## type conversion
 
 1. Implicit conversion - It is automatic conversion, it converts small values to large values.
+
 `char` -> `int` -> `long` -> `float` -> `double`
 
 ```csharp
@@ -114,6 +115,7 @@ Console.WriteLine(dd);
 ```
 
 2. Explicit conversion - It is a manual conversion, it converts large values to small values.
+
 `double` -> `float` -> `long` -> `int` -> `char`
 
 ```csharp
